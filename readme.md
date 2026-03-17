@@ -68,27 +68,27 @@ python main.py
 # 📸 Screenshots
 
 ## 🖊️ Adding Journal Entries
-![Add Entry](Screenshots/s1.png)
+![Add Entry](s1.png)
 
 ---
 
 ## 📖 Viewing All Entries
-![View Entries](Screenshots/s2.png)
+![View Entries](s2.png)
 
 ---
 
 ## 🔍 Searching Entries
-![Search Entries](Screenshots/s3.png)
+![Search Entries](s3.png)
 
 ---
 
 ## 🧹 Deleting All Entries
-![Delete Entries](Screenshots/s4.png)
+![Delete Entries](s4.png)
 
 ---
 
 ## 👋 Exiting the Program
-![Exit Program](Screenshots/s5.png)
+![Exit Program](s5.png)
 
 ---
 
@@ -153,10 +153,5 @@ The implementation can be seen in the source code. :contentReference[oaicite:0]{
 # 👨‍💻 Author
 
 **DHRUV**
-"# project-6" 
-"# project-6" 
-"# project-6" 
-"# project-6" 
-"# project-6" 
-"# project-6" 
+
 "# project-six" 
