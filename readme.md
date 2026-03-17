@@ -132,5 +132,3 @@ I learned Python.
 
 **Dhruv Prajapati**
 
-"# project-six" 
->>>>>>> 1b019af1ff96bf16abc9a9ac251cd055524aef51
