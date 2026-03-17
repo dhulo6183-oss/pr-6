@@ -56,25 +56,15 @@ python p6.py
 ### 🟢 1. Add New Journal Entry
 📌 Users can write and save their daily thoughts with timestamps.
 
-![Add Entry](sc-1.png)
-
----
 
 ### 📖 2. View All Entries
 📌 Displays all stored journal entries in a clean format.
 
-![View Entries](sc-2.png)
 
----
 
 ### 🔍 3. Search Journal Entry
 📌 Quickly find entries using keywords or date.
 
-![Search Entry](sc-3.png)
-
----
-
-### 🗑️ 4. Delete All Entries
 📌 Deletes all entries after user confirmation.
 
 ![Delete Entries](sc-4.png)
