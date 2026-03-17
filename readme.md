@@ -56,15 +56,25 @@ python p6.py
 ### 🟢 1. Add New Journal Entry
 📌 Users can write and save their daily thoughts with timestamps.
 
+![Add Entry](sc-1.png)
+
+---
 
 ### 📖 2. View All Entries
 📌 Displays all stored journal entries in a clean format.
 
+![View Entries](sc-2.png)
 
+---
 
 ### 🔍 3. Search Journal Entry
 📌 Quickly find entries using keywords or date.
 
+![Search Entry](/sc-3.png)
+
+---
+
+### 🗑️ 4. Delete All Entries
 📌 Deletes all entries after user confirmation.
 
 ![Delete Entries](sc-4.png)
@@ -75,32 +85,7 @@ python p6.py
 📌 Shows additional working or menu interaction.
 
 ![Extra](sc-5.png)
-=======
-## 🖊️ Adding Journal Entries
-![Add Entry](s1.png)
 
----
-
-## 📖 Viewing All Entries
-![View Entries](s2.png)
-
----
-
-## 🔍 Searching Entries
-![Search Entries](s3.png)
-
----
-
-## 🧹 Deleting All Entries
-![Delete Entries](s4.png)
-
----
-
-## 👋 Exiting the Program
-![Exit Program](s5.png)
->>>>>>> 1b019af1ff96bf16abc9a9ac251cd055524aef51
-
----
 
 ## ⚙️ How It Works
 
@@ -115,8 +100,6 @@ python p6.py
 [2026-02-17 13:25:09]
 I learned Python.
 ```
-
----
 
 ## 🧠 Concepts Used
 
@@ -148,7 +131,6 @@ I learned Python.
 ## 👨‍💻 Author
 
 **Dhruv Prajapati**
-
 
 "# project-six" 
 >>>>>>> 1b019af1ff96bf16abc9a9ac251cd055524aef51
